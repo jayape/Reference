@@ -1,2 +1,2 @@
 # Reference
-Codes for my learning R
+My Code for learning R
